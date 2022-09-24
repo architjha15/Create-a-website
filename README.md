@@ -1,6 +1,6 @@
 # Create-a-website
 
-These are the screenshots of home page and other web pages:-
+These are the screenshots of home page and other web pages:-      (Front-end)
 
 ![image](https://user-images.githubusercontent.com/103206051/192113538-08f00600-863a-4b9e-bc8d-e6515d2d1d94.png)
 ![image](https://user-images.githubusercontent.com/103206051/192113561-04688149-a680-4215-9f2e-51bc52064939.png)
